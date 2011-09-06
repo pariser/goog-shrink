@@ -1,0 +1,12 @@
+#docs-titlebar {
+    padding: 5px 0 0;
+}
+.docs-titlebar-buttons {
+    top: 5px;
+}
+.docs-menubar {
+    height: 25px;
+}
+.docs-presence-widget {
+    top: 5px;
+}
